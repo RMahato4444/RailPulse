@@ -37,8 +37,7 @@ export default function AppDownloadBanner() {
 
       <a
         className="app-download-banner__button"
-        href="/railpulse.apk"
-        download="RailPulse.apk"
+        href="https://github.com/RMahato4444/RailPulse/releases/latest/download/RailPulse-Android.apk"
         aria-label="Download the RailPulse Android APK"
       >
         <Download size={19} aria-hidden="true" />
