@@ -1,0 +1,17 @@
+export const C = {
+  ink: "#17243e",
+  inkSoft: "#243a5d",
+  muted: "#687d9e",
+  page: "#0b1224",
+  page2: "#172341",
+  surface: "#f7f9ff",
+  surfaceBlue: "#eaf0ff",
+  border: "#d7e2f7",
+  blue: "#3978f6",
+  violet: "#8062ef",
+  cyan: "#56c2ef",
+  green: "#168b6d",
+  orange: "#e17b4f",
+  red: "#d95b59",
+  white: "#ffffff",
+};

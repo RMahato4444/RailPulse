@@ -1,0 +1,29 @@
+
+# Dependencies
+node_modules/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Build output
+dist/
+build/
+
+# Expo
+.expo/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Local APK - publish separately after backend deployment
+/client/public/railpulse.apk
+
+# Operating system files
+.DS_Store
+Thumbs.db
